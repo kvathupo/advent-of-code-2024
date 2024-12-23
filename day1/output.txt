@@ -1,4 +1,0 @@
-total distance:
-1590491
-Similarity Score:
-22588371
